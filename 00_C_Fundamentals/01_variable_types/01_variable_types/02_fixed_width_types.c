@@ -12,7 +12,6 @@ int main(void){
   printf("Sensor ID: %u\n", sensor_id);
   printf("ADC Value: %u\n", adc_value);
   printf("System Ticks: %u\n", system_ticks);
-  
   printf("Temperature: %d\n", temperature);
   printf("Motor Error: %d\n", motor_error);
   printf("Position: %d\n", position);
